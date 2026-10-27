@@ -1,0 +1,11 @@
+Recentemente vemos um crescimento pelo interesse na prática esportiva, podemos observar isso através da quantidade de academias, centros de treinamento crescendo cada vez mais em áreas urbanas, não apenas a quantidade, mas também a procura por estes espaços. Muitos querem se manter saudáveis através da musculação e outros exercícios focalizados, porém existe uma grande parcela da população, que deseja unir a prática esportiva com um momento de lazer e socialização.
+
+Geralmente estes momentos acontecem através da prática de esportes coletivos, mas para a prática do esporte, muitos grupos de amigos ou pessoas de regiões específicas enfrentam dificuldades ao organizar partidas, como combinar times, pessoas que se comprometem e de última hora acabam não indo, pessoas que acabam não pagando o aluguel cobrado pelo espaço, desequilíbrio em partidas e afins.
+
+Pensando nisso, desenvolvemos o TymUp, um aplicativo focado na organização de partidas, onde o usuário poderá se cadastrar e unir-se ou criar partidas, podendo escolher entre modalidades pré-definidas. Para utilizar as funcionalidades do app, o usuário organizador da partida, definirá um lugar onde o jogo ocorrerá para que outros usuários próximos possam juntar-se ao lobby para fazer parte de algum dos times. O aplicativo será responsável por organizar os jogadores em duas equipes que sejam o mais equilibradas quanto possível, considerando as posições de preferência dos usuários.
+
+Para evitar que os jogadores faltem às partidas sem nenhum tipo de aviso, o app exigirá confirmação de presença na partida no dia anterior ao que a mesma ocorrerá, em caso de não confirmação, será possível que se encontre outro jogador para preencher o espaço.
+
+Pensando em locais que cobram aluguel de campo/quadra, será possível dividir o valor da taxa de locação pelo aplicativo, repartindo o valor em partes iguais entre os jogadores para que paguem ao organizador (esta funcionalidade será opcional e caberá à decisão do organizador).
+
+Utilizando estes pontos, acreditamos que o TymUp pode oferecer uma solução simples para a organização destes eventos, de forma a unir a simplicidade com o máximo de praticidade para o usuário.

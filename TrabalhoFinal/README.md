@@ -19,9 +19,3 @@ Trabalho final desenvolvido em equipe durante a disciplina de Algoritmos e Estru
 - Manipulação de arquivos e diretórios.
 - Indexação e pesquisa de palavras.
 - Persistência e recuperação de dados.
-
-## Tecnologias utilizadas
-
-- **Linguagem:** Java
-- **Estrutura de indexação:** mapa de dispersão (*Hash*)
-- **Armazenamento:** arquivos em disco

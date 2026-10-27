@@ -1,0 +1,100 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.lista3.ListaEncadeadaTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 12, Skipped: 0, Time elapsed: 0.058 s <<< FAILURE! -- in com.mycompany.lista3.ListaEncadeadaTest
+com.mycompany.lista3.ListaEncadeadaTest.obterComprimeito2 -- Time elapsed: 0.021 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.obterComprimeito2(ListaEncadeadaTest.java:210)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.obterNo -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.obterNo(ListaEncadeadaTest.java:166)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.buscaMeio -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.buscaMeio(ListaEncadeadaTest.java:90)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.obterNoInvalido -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.obterNoInvalido(ListaEncadeadaTest.java:192)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.exclusaoMeio -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.exclusaoMeio(ListaEncadeadaTest.java:141)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.listaNaoVazia -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.listaNaoVazia(ListaEncadeadaTest.java:32)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.inclusaoNumero -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.inclusaoNumero(ListaEncadeadaTest.java:42)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.busca -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.busca(ListaEncadeadaTest.java:77)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.buscaInesistente -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.buscaInesistente(ListaEncadeadaTest.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.inclusaoNumeros -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.inclusaoNumeros(ListaEncadeadaTest.java:54)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.obterNoUltimo -- Time elapsed: 0.001 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.obterNoUltimo(ListaEncadeadaTest.java:179)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
+com.mycompany.lista3.ListaEncadeadaTest.exclusao -- Time elapsed: 0 s <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.mycompany.lista3.NoLista.setProximo(com.mycompany.lista3.NoLista)" because "this.primeiro" is null
+	at com.mycompany.lista3.ListaEncadeada.inserir(ListaEncadeada.java:28)
+	at com.mycompany.lista3.ListaEncadeadaTest.exclusao(ListaEncadeadaTest.java:116)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1604)
+
